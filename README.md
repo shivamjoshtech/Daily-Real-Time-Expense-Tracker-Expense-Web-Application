@@ -180,15 +180,15 @@ npm install
 ▶️ Running the App
 
 Start Backend
-
+```
 cd server
 npm run dev
-
+```
 Start Frontend
-
+```
 cd client
 npm run dev
-
+```
 The app will be running on:
 
 Frontend: http://localhost:5173
@@ -224,7 +224,7 @@ Add screenshots here once the UI is complete.
 
 🙏 Acknowledgements
 Thanks to the open-source community for great libraries like:
-
+```
 React.js
 
 Tailwind CSS
@@ -232,7 +232,7 @@ Tailwind CSS
 Chart.js
 
 jsPDF
-
+```
 Express & MongoDB
 
 📬 Contact
