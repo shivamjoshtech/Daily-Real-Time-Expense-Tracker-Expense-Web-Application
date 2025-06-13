@@ -201,13 +201,25 @@ Add screenshots here once the UI is complete.
 
 ![Screenshot 2025-06-05 180449](https://github.com/user-attachments/assets/90e36c85-e6d2-4d4d-8231-2aeaf892d0c6)
 
+
+
+
+
 ![Screenshot 2025-06-05 180435](https://github.com/user-attachments/assets/dd6770cb-5260-4d73-8283-c3fc23834a97)
+
+
+
+
 
 ![Screenshot 2025-06-05 180406](https://github.com/user-attachments/assets/d6427dd1-93ae-4541-81f8-2d984d650a23)
 
+
+
+
+
 ![Screenshot 2025-06-05 180350](https://github.com/user-attachments/assets/22b73ad2-3c55-4796-8772-47784f716ed0)
 
-![Screenshot 2025-06-05 171719](https://github.com/user-attachments/assets/2fe2d882-8212-4d70-8308-9ddbc44add10)
+
 
 
 🙏 Acknowledgements
