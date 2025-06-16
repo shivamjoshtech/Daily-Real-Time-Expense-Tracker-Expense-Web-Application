@@ -223,7 +223,8 @@ Daily Summary & Pie Chart
 Get a quick overview of your total spending for the day. A visually styled pie chart shows category-wise distribution (Food, Travel, Other) for better clarity.
 
 
-![Screenshot 2025-06-05 180406](https://github.com/user-attachments/assets/09f6216d-b085-4009-9494-fb259ec075e3)
+![Screenshot 2025-06-05 180449](https://github.com/user-attachments/assets/1ae5cf6f-2de3-40be-b58d-ca356b994572)
+
 
 Monthly Report Table
 Track your daily expenses across the month in a well-structured table. View date-wise totals and a final monthly summary to stay on top of your spending habits.
