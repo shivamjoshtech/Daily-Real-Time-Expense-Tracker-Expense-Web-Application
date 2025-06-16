@@ -212,27 +212,31 @@ Database: MongoDB Atlas
 
 ![Screenshot 2025-06-05 180449](https://github.com/user-attachments/assets/e46bdf66-0df7-4228-a52f-42d55a911ab1)
 
-
 Add & View Daily Expenses
 Easily add your daily expenses by entering the item name, amount, and selecting a category. All entries are automatically time-stamped and instantly listed with options to edit or delete.
 
-![Screenshot 2025-06-05 180435](https://github.com/user-attachments/assets/70f4c881-f044-4bc1-9876-9a97cb4e1235)
 
+
+![Screenshot 2025-06-05 180435](https://github.com/user-attachments/assets/70f4c881-f044-4bc1-9876-9a97cb4e1235)
 
 Daily Summary & Pie Chart
 Get a quick overview of your total spending for the day. A visually styled pie chart shows category-wise distribution (Food, Travel, Other) for better clarity.
 
 
-![Screenshot 2025-06-05 180449](https://github.com/user-attachments/assets/1ae5cf6f-2de3-40be-b58d-ca356b994572)
 
+![Screenshot 2025-06-05 180406](https://github.com/user-attachments/assets/35343f90-86de-4b85-a8be-a70b99ec765d)
 
 Monthly Report Table
 Track your daily expenses across the month in a well-structured table. View date-wise totals and a final monthly summary to stay on top of your spending habits.
+
+
 
 ![Screenshot 2025-06-05 180350](https://github.com/user-attachments/assets/f7bd7743-26d1-4c14-a329-5f601d3af10f)
 
 Export PDF & Print Reports
 Generate a professional-looking monthly report with a single click. Download the full report as a PDF including tables and charts, or print it directly for physical records.
+
+
 
 🙏 Acknowledgements
 Thanks to the open-source community for great libraries like:
@@ -255,16 +259,14 @@ Twitter: @shivamjoshiiiii
 This project is open-source and available under the MIT License.
 
 
-
 ---
-
-
-
 
 
 🧾 Expense Tracker App (MERN + TypeScript)
 A responsive and modern web application to track your daily expenses. Built with the MERN stack and TypeScript, it offers real-time data tracking, daily/monthly summaries, category-wise analytics with charts, and PDF export/print functionality. Simple UI, powerful features — everything you need to manage your money smarter.
 
+
+This is the Live Hosted Project at Lovable 
 **URL**: https://lovable.dev/projects/fdfbf0ff-58ee-47c3-b985-b78e5dd4c2ed
 
 
